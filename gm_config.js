@@ -1,5 +1,5 @@
 /*
-Copyright 2009+, GM_config Contributors (https://github.com/sizzlemctwizzle/GM_config)
+Copyright 2009+, GM_config Contributors (https://github.com/93Akkord/GM_config)
 
 GM_config Collaborators/Contributors:
     Mike Medley <medleymind@gmail.com>
@@ -26,18 +26,18 @@ GM_config is distributed under the terms of the GNU Lesser General Public Licens
 
 // ==UserScript==
 // @exclude       *
-// @author        Mike Medley <medleymind@gmail.com> (https://github.com/sizzlemctwizzle/GM_config)
-// @icon          https://raw.githubusercontent.com/sizzlemctwizzle/GM_config/master/gm_config_icon_large.png
+// @author        Mike Medley <medleymind@gmail.com> (https://github.com/93Akkord/GM_config)
+// @icon          https://raw.githubusercontent.com/93Akkord/GM_config/master/gm_config_icon_large.png
 
 // ==UserLibrary==
 // @name          GM_config
 // @description   A lightweight, reusable, cross-browser graphical settings framework for inclusion in user scripts.
-// @copyright     2009+, Mike Medley (https://github.com/sizzlemctwizzle)
-// @license       LGPL-3.0-or-later; https://raw.githubusercontent.com/sizzlemctwizzle/GM_config/master/LICENSE
+// @copyright     2009+, Mike Medley (https://github.com/93Akkord)
+// @license       LGPL-3.0-or-later; https://raw.githubusercontent.com/93Akkord/GM_config/master/LICENSE
 
 // @homepageURL   https://openuserjs.org/libs/sizzle/GM_config
-// @homepageURL   https://github.com/sizzlemctwizzle/GM_config
-// @supportURL    https://github.com/sizzlemctwizzle/GM_config/issues
+// @homepageURL   https://github.com/93Akkord/GM_config
+// @supportURL    https://github.com/93Akkord/GM_config/issues
 
 // ==/UserScript==
 
